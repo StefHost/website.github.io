@@ -1,0 +1,65 @@
+header{
+    background-color:darkorange;
+    width: 100%;
+    height: 300px;
+}
+
+footer{
+    background-color: darkred;
+    width: 100%;
+    height: 300px;
+}
+
+td{
+    width: 100px;
+    height: 150px;
+}
+
+#cel_1{
+    background-color: aqua;
+}
+#cel_2{
+    background-color: aquamarine;
+}
+#cel_3{
+    background-color: blue
+}
+#cel_4{
+    background-color: blueviolet;
+}
+#cel_5{
+    background-color: brown;
+}
+#cel_6{
+    background-color: chartreuse;
+}
+#cel_7{
+    background-color: crimson
+}
+#cel_8{
+    background-color: darkcyan;
+}
+#cel_9{
+    background-color: darkgreen;
+}
+#cel_10{
+    background-color: darkmagenta;
+}
+#cel_11{
+    background-color: firebrick
+}
+#cel_12{
+    background-color: fuchsia;
+}
+#cel_13{
+    background-color: gold;
+}
+#cel_14{
+    background-color: greenyellow;
+}
+#cel_15{
+    background-color: hotpink
+}
+#cel_16{
+    background-color: indianred;
+}
